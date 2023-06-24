@@ -1,2 +1,2 @@
-# subquery
-subquery
+# Latihan_SUBQUERY
+SUB_QUERY
